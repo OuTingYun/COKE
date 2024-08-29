@@ -77,5 +77,5 @@ generating process is in the folder `gendata`, you should make the data in langu
     ```
 
 
-Data Genrating process is base from the paper "A hierarchical ensemble causal structure learning approach for wafer
+Data Genrating process is based on the paper "A hierarchical ensemble causal structure learning approach for wafer
 manufacturing"
