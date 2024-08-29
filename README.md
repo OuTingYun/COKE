@@ -75,3 +75,7 @@ generating process is in the folder `gendata`, you should make the data in langu
         │   ├── arcs_miss(0.5)_rep(10)_xfull(100).csv
         │   ├── X_miss(0.5)_rep(10)_xfull(100).csv
     ```
+
+
+Data Genrating process is base from the paper "A hierarchical ensemble causal structure learning approach for wafer
+manufacturing"
